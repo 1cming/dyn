@@ -18,14 +18,22 @@
 2、在需要操作的工程中引入jar 有私服的建议使用maven方式
 
 3、web.xml引入配置
-<servlet>
-		<servlet-name>dyn</servlet-name>
-		<servlet-class>com.conning.compents.servlet.DynServlet</servlet-class>
-</servlet>
-<servlet-mapping>
-		<servlet-name>dyn</servlet-name>
-		<url-pattern>/dyn/admin/*</url-pattern>
-</servlet-mapping>
+
+ < servlet>
+ 
+	< servlet-name>dyn</servlet-name>
+	
+	< servlet-class>com.conning.compents.servlet.DynServlet</servlet-class>
+	
+ < /servlet>
+ 
+ < servlet-mapping>
+ 
+	<servlet-name>dyn</servlet-name>
+	
+	<url-pattern>/dyn/admin/*</url-pattern>
+	
+ < /servlet-mapping>
 
 4、启动应用,以ip为127.0.0.1,port为8080示例,访问dyn控制界面地址为:127.0.0.0:8080/dyn/admin
 
