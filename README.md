@@ -64,6 +64,8 @@ public class Demo {
 
 -进入127.0.0.0:8080/dyn/admin
 
+-输入帐号密码 默认均为admin
+
 -点击进入Component Browser
 
 -找到刚刚写好的Demo点击进去
