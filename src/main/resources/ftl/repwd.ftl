@@ -22,4 +22,9 @@ Service /com/gome/commerce/Interface/ElectronTicket/service/ElectronTicketManage
 	</form>
 </div>
 </body>
+<FOOTER>
+ 	<span style="font-weight:bold;"> 
+  		<p align="center">Powered by: <a href="mailto:conning@qq.com">Conning</a></p>
+	</span>
+</FOOTER>
 </html>

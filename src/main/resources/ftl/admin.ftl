@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="${project}/dyn/admin/resources/admin.css">
 
 </HEAD>
-<BODY BGCOLOR="#FFFFFF" TEXT="#00214A" VLINK="#637DA6" LINK="#E87F02">
+<BODY BGCOLOR="#FFFFFF" TEXT="#00214A" VLINK="#637DA6" LINK="#E87F02" >
 <IMG SRC="${project}/dyn/admin/resources/admin-banner.gif" ALT="Dynamo Administration" ALIGN=TOP WIDTH="585" HEIGHT="37" BORDER="0"><p>
 
 <a href="${project}/dyn/admin/">admin</a></p><p>
@@ -58,6 +58,12 @@
 
 </blockquote>
 </blockquote>
-
+	
 </BODY>
+
+<FOOTER>
+ 	<span style="font-weight:bold;"> 
+  		<p align="center">Powered by: <a href="mailto:conning@qq.com">Conning</a></p>
+	</span>
+</FOOTER>
 </HTML>

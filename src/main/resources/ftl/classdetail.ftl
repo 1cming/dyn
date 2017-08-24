@@ -113,4 +113,9 @@ Theme : <select onchange="selectTheme(this.options[this.options.selectedIndex].v
 <h1>String Value</h1>
 ${stringValue}
 </body>
+<FOOTER>
+ 	<span style="font-weight:bold;"> 
+  		<p align="center">Powered by: <a href="mailto:conning@qq.com">Conning</a></p>
+	</span>
+</FOOTER>
 </html>

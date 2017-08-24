@@ -30,4 +30,10 @@ ${propertyName}
 <tr><th>Name</th><th>Value</th><th>Type</th><th>final</th></tr>
 <tr class="even"><td>${propertyName}</td><td>${propertyValue}</td><td>${propertyType} </td><td>${finalField} </td></tr>
 </table>
-</body></html>
+</body>
+<FOOTER>
+ 	<span style="font-weight:bold;"> 
+  		<p align="center">Powered by: <a href="mailto:conning@qq.com">Conning</a></p>
+	</span>
+</FOOTER>
+</html>

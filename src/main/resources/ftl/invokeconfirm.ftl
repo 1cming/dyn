@@ -14,4 +14,10 @@ Service /com/gome/commerce/Interface/ElectronTicket/service/ElectronTicketManage
 <input type=button name=cancelMethodInvocation onclick='history.go(-1)' value="Cancel">
 <input type=hidden name=id value="${id}">
 </form>
-</body></html>
+</body>
+<FOOTER>
+ 	<span style="font-weight:bold;"> 
+  		<p align="center">Powered by: <a href="mailto:conning@qq.com">Conning</a></p>
+	</span>
+</FOOTER>
+</html>

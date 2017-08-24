@@ -9,3 +9,9 @@
 		<input type="hidden" name="oldrequrl" value="${oldrequrl}"/>
 	</form>
 </div>
+
+<FOOTER>
+ 	<span style="font-weight:bold;"> 
+  		<p align="center">Powered by: <a href="mailto:conning@qq.com">Conning</a></p>
+	</span>
+</FOOTER>
